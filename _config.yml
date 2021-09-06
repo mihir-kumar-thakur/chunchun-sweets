@@ -61,3 +61,26 @@ relative_links:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+products:
+  - name: "Natural Wholes Raw Cashew Nuts W320"
+    image: "320-cashew-nuts-kernels.jpg"
+    description: "Premium quality cashew nuts - W320"
+    link: ""
+    pacakage_size: "10 Kg"
+    packing_type: "Carton, Tin"
+    color: "White"
+    life: "6 Months"
+    processing_type: "Raw, Roasted"
+
+  - name: "W180 Jumbo Cashew Nuts"
+    image: "180-cashew-nuts-kernels.jpg"
+    description: "W-180, is the King of Cashew - They are larger in size."
+    link: ""
+    pacakage_size: "10 Kg"
+    packing_type: "Carton, Tin"
+    color: "White"
+    life: "6 Months"
+    processing_type: "Raw, Roasted"
+
