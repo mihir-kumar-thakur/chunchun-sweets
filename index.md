@@ -50,19 +50,19 @@ layout: default
 
       <div class="row portfolio-container">
 
-        {% for product in site.products %}
+        {% for product in site.home_page_products %}
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="assets/img/products/{{ product.image }}" class="img-fluid" alt="">
+                <a href="assets/img/products/{{ product.image }}" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">{{ product.name }}</a></h4>
+                <p>{{ product.name }}</p>
               </div>
             </div>
           </div>
