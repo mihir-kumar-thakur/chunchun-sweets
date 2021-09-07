@@ -81,16 +81,15 @@ layout: default
                 </div>
                 <div class="d-flex justify-content-between">
                   <div class="col px-0">
-                    <button class="btn btn-outline-primary btn-block">
-                    Add To Cart
-                    <i class="fa fa-shopping-basket" aria-hidden="true"></i>
-                    </button>
-                  </div>
-                  <!-- <div class="ml-2">
-                    <a href="#" class="btn btn-outline-success" data-toggle="tooltip" data-placement="left" title="Add to Wishlist">
-                    <i class="fa fa-heart" aria-hidden="true"></i>
+                    <a href='https://wa.me/+919224102279' target='_blank' class="btn btn-success  btn-block">
+                      WhatsApp
+                      <i class= "fa fa-whatsapp"></i>
                     </a>
-                  </div> -->
+                    <a href="tel:+91 92241 02279" target="_blank" class="btn btn-outline-primary btn-block">
+                      <i class="fa fa-mobile" aria-hidden="true"></i>
+                      +91 92241 02279
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>

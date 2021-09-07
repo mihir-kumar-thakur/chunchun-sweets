@@ -69,6 +69,10 @@ layout: default
         {% endfor %}
       </div>
 
+      <div class="text-center">
+        <a href="/wholesale-cashew-kernels-products-details" class="button-st">Check All Products</a>
+      </div>
+
     </div>
   </section><!-- End Portfolio Section -->
 </main>
