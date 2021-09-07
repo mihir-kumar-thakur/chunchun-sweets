@@ -1385,3 +1385,12 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.button-st {
+  background: #3498db;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 4px;
+}
