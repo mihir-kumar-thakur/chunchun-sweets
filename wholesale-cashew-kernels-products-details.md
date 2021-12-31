@@ -28,20 +28,6 @@ layout: default
         {% for product in site.products %}
           <div class="col-md-4 mb-3">
             <div class="card h-100">
-              <div class="d-flex justify-content-between position-absolute w-100">
-                <div class="label-new">
-                  <span class="text-white bg-success small d-flex align-items-center px-2 py-1">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <span class="ml-1">Fresh</span>
-                  </span>
-                </div>
-                <div class="label-sale">
-                  <span class="text-white bg-primary small d-flex align-items-center px-2 py-1">
-                  <i class="fa fa-tag" aria-hidden="true"></i>
-                  <span class="ml-1">Best Quality</span>
-                  </span>
-                </div>
-              </div>
               <a href="#">
               <img src="assets/img/products/{{ product.image }}" class="card-img-top" alt="Product">
               </a>
