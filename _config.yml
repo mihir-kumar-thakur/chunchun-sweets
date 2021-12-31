@@ -18,16 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Wholesale Trader of Cashew Nuts | ChunChun Sweets
+
+email: chunchunsweets@gmail.com
+description: >-
+  Wholesale Trader of Cashew Nuts, W-180, W-210, W-240, W-320 Cashew Nut & Jumbo Cashew Nuts offered by ChunChun Sweets from Mumbai.
+  Best Wholesale cashew Price India
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.chunchunsweets.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
 
 # Build settings
 plugins:
@@ -63,9 +66,9 @@ relative_links:
 #   - vendor/ruby/
 
 home_page_products:
-  - name: "Natural Wholes Raw Cashew Nuts W320"
-    image: "320-cashew-nuts-kernels.jpg"
-    description: "Premium quality cashew nuts - W320"
+  - name: "W180 Jumbo Cashew Nuts"
+    image: "180-cashew-nuts-kernels.jpg"
+    description: "W-180, is the King of Cashew - They are larger in size."
     link: ""
     pacakage_size: "10 Kg"
     packing_type: "Carton, Tin"
@@ -73,9 +76,9 @@ home_page_products:
     life: "6 Months"
     processing_type: "Raw, Roasted"
 
-  - name: "W180 Jumbo Cashew Nuts"
-    image: "180-cashew-nuts-kernels.jpg"
-    description: "W-180, is the King of Cashew - They are larger in size."
+  - name: "Natural Wholes Raw Cashew Nuts W320"
+    image: "320-cashew-nuts-kernels.jpg"
+    description: "Premium quality cashew nuts - W320"
     link: ""
     pacakage_size: "10 Kg"
     packing_type: "Carton, Tin"
@@ -95,9 +98,9 @@ home_page_products:
 
 
 products:
-  - name: "Natural Wholes Raw Cashew Nuts W320"
-    image: "320-cashew-nuts-kernels.jpg"
-    description: "Premium quality cashew nuts - W320"
+  - name: "W180 Jumbo Cashew Nuts"
+    image: "180-cashew-nuts-kernels.jpg"
+    description: "W-180, is the King of Cashew - They are larger in size."
     link: ""
     pacakage_size: "10 Kg"
     packing_type: "Carton, Tin"
@@ -105,9 +108,9 @@ products:
     life: "6 Months"
     processing_type: "Raw, Roasted"
 
-  - name: "W180 Jumbo Cashew Nuts"
-    image: "180-cashew-nuts-kernels.jpg"
-    description: "W-180, is the King of Cashew - They are larger in size."
+  - name: "Natural Wholes Raw Cashew Nuts W320"
+    image: "320-cashew-nuts-kernels.jpg"
+    description: "Premium quality cashew nuts - W320"
     link: ""
     pacakage_size: "10 Kg"
     packing_type: "Carton, Tin"

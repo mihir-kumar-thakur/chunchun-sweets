@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Us | WholeSale Cashews Trader | ChunChun Sweets
 ---
 
 <div class="mt-5"></div>

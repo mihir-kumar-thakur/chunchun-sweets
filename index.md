@@ -77,4 +77,6 @@ layout: default
   </section><!-- End Portfolio Section -->
 </main>
 
+{% include seo-data.html %}
+
 {% include contact.html %}
